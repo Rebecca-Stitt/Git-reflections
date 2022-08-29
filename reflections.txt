@@ -1,0 +1,10 @@
+What's the difference between Git and GitHub? 
+Git is a system of working that keeps track of each version created or modified of/to a project. This is known as a version control system. It is literally controlling each version made my 1 or more users to a project. 
+Github is a platform that lets user hold reprositories of code/projects. They can be shared, pushed and pulled by different users. Users can also see changes made, and why/when. If code has been modified with git on just a local database, i.e terminal it can be hard for changes to be seen in real time.
+Can you think of an analogy to describe them?
+Git is like keeping a log of changes made when creating a recipe. Github is sharing the changes so others can replicate and review, as well as contribute to the recipe. Someone could be focussed on the icing of a cake and keeping track of the changes in their recipe book, and then sharing the changes on Github. Another could be focussed on the base of the cake. 
+If they are both working on the cake at the same time without guidelines or boundaries, they need to communicate.
+Do you think you would still remember the difference a week from now if you didn't revisit the material?
+No
+Did you stick to the timebox suggestions? If not, why not?
+No. I found it so hard to get my head around the differences, but also explain what they are.
