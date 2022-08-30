@@ -8,3 +8,5 @@ Do you think you would still remember the difference a week from now if you didn
 No
 Did you stick to the timebox suggestions? If not, why not?
 No. I found it so hard to get my head around the differences, but also explain what they are.
+How would you describe stage and commit to your non-tech-savvy friend?
+I would describe staging as checking something is ready to be published i.e When I've made a new edit to a co-written piece of music. I think the change is good, so I send the change/edit to my band to listen to on a private link. (staging). The band has listened to it, and they like the change, so we save that as a new version of our song (commit).
