@@ -8,5 +8,11 @@ Do you think you would still remember the difference a week from now if you didn
 No
 Did you stick to the timebox suggestions? If not, why not?
 No. I found it so hard to get my head around the differences, but also explain what they are.
+What is a Git workflow?
+The process of making a new file or change to a repository, adding it the staging area to have final check/sign-off, then commiting it if it's good. You can then make further changes to a file, which means you would again add the newly changed file to staging area, and then commit.
+What did you notice about your learning? What did you do when you were confused or blocked? 
+It helped to have videos to pause and go over at my own pace. When I was confused or blocked I would look for other ways to explain concepts in different mediums or different analogies.
+Is there anything you'd do differently if you were to repeat the learning exploration?
+Write down notes instead of on computer, so it's less disruptive when looking at previous hints/knowledge.
 How would you describe stage and commit to your non-tech-savvy friend?
 I would describe staging as checking something is ready to be published i.e When I've made a new edit to a co-written piece of music. I think the change is good, so I send the change/edit to my band to listen to on a private link. (staging). The band has listened to it, and they like the change, so we save that as a new version of our song (commit).
