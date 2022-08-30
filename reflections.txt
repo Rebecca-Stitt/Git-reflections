@@ -1,9 +1,16 @@
 What's the difference between Git and GitHub? 
-Git is a system of working that keeps track of each version created or modified of/to a project. This is known as a version control system. It is a system of keeping a record of each version (simple changes or large adjustments) made my 1 or more users to a project, and how the project chapters are organised.
-Github is a platform that lets user hold reprositories of code/projects. They can be shared, pushed and pulled by different users. Users can also see changes made, and why/when, once local code or changes is shared to github. If code has been modified with git on just a local database, i.e terminal it can be hard (impossible??) for changes to be seen in real time.
+Git is a system of working that keeps track of each version created or modified of/to a project. 
+This is known as a version control system. It is a system of keeping a record of each version (simple changes or large adjustments) made by
+1 or more users to a project, and how the project chapters are organised.
+Github is a platform that lets user hold reprositories of code/projects. They can be shared, pushed and pulled by different users. 
+Users can also see changes made, and why/when, once local code or changes is shared to github. 
+If code has been modified with git on just a local database, i.e terminal it can be hard (impossible??) for changes to be seen in real time.
 Can you think of an analogy to describe them?
-Git is like keeping a written log of changes to a recipe of a cake in an old school recipe book, as you are creating the recipe for the new cake. Github is sharing the changes online so others can replicate and/or review, as well as contribute to the recipe. Different bakers may have different tasks. 1 could be focussed on the icing of a cake and keeping track of the changes in their recipe book, and then sharing the changes on Github. Another could be focussed on the base of the cake. 
-If they are both working on the cake at the same time without guidelines or boundaries, they need to communicate. If not, they may end up with 2 different cakes, or working on the same part (icing) as each other at the same time. If parts of the cake aren't working, they can revisit changes to a recipe to see where the baker went wrong.
+Git is like keeping a written log of changes to a recipe of a cake in an old school recipe book, as you are creating the recipe for the new cake. 
+Github is sharing the changes online so others can replicate and/or review, as well as contribute to the recipe. 
+Different bakers may have different tasks. 1 could be focussed on the icing of a cake and keeping track of the changes in their recipe book, and then sharing the changes on Github. Another could be focussed on the base of the cake. 
+If they are both working on the cake at the same time without guidelines or boundaries, they need to communicate.
+If not, they may end up with 2 different cakes, or working on the same part (icing) as each other at the same time. If parts of the cake aren't working, they can revisit changes to a recipe to see where the baker went wrong.
 Do you think you would still remember the difference a week from now if you didn't revisit the material?
 No
 Did you stick to the timebox suggestions? If not, why not?
@@ -11,8 +18,19 @@ No. I found it so hard to get my head around the differences, but also explain w
 What is a Git workflow?
 The process of making a new file or change to a repository, adding it the staging area to have final check/sign-off, then commiting it if it's good. You can then make further changes to a file, which means you would again add the newly changed file to staging area, and then commit.
 What did you notice about your learning? What did you do when you were confused or blocked? 
-It helped to have videos to pause and go over at my own pace. When I was confused or blocked I would look for other ways to explain concepts in different mediums or different analogies.
+It helped to have videos to pause and go over at my own pace. 
+When I was confused or blocked I would look for other ways to explain concepts in different mediums or different analogies.
 Is there anything you'd do differently if you were to repeat the learning exploration?
 Write down notes instead of on computer, so it's less disruptive when looking at previous hints/knowledge.
 How would you describe stage and commit to your non-tech-savvy friend?
-I would describe staging as checking something is ready to be published i.e When I've made a new edit to a co-written piece of music. I think the change is good, so I send the change/edit to my band to listen to on a private link. (staging). The band has listened to it, and they like the change, so we save that as a new version of our song (commit).
+I would describe staging as checking something is ready to be published i.e When I've made a new edit to a co-written piece of music. 
+I think the change is good, so I send the change/edit to my band to listen to on a private link. (staging). 
+The band has listened to it, and they like the change, so we save that as a new version of our song (commit).
+Reflect
+Open your text reflections file and answer the following.
+What is main?
+Why create a branch?
+Do the concepts introduced feel intuitive or difficult to understand?
+Main is the new name for the master branch on when working with git. It is the trunk of the tree/project/repository you are working on.
+Creating a branch gives a safe space to add features, and work privately on your own work. You can try risky things and it will not effect the master code/branch (unless you merge them. But you would not do this anyway until you have made a pull request(i.e saying hi plz check out my code) for a teammember to review your work. Best practise for merging is that the person who has reviewed and approved will be the one to merge).
+The concepts at first fel difficult to understand. I changed my learning model (writing physical notes with a video), and this felt more intuitive as I watched the 3rd or 4th video.
