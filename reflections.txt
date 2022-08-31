@@ -32,5 +32,27 @@ What is main?
 Why create a branch?
 Do the concepts introduced feel intuitive or difficult to understand?
 Main is the new name for the master branch on when working with git. It is the trunk of the tree/project/repository you are working on.
-Creating a branch gives a safe space to add features, and work privately on your own work. You can try risky things and it will not effect the master code/branch (unless you merge them. But you would not do this anyway until you have made a pull request(i.e saying hi plz check out my code) for a teammember to review your work. Best practise for merging is that the person who has reviewed and approved will be the one to merge).
-The concepts at first fel difficult to understand. I changed my learning model (writing physical notes with a video), and this felt more intuitive as I watched the 3rd or 4th video.
+Creating a branch gives a safe space to add features, and work privately on your own work. 
+You can try risky things and it will not effect the master code/branch (unless you merge them. But you would not do this anyway until 
+you have made a pull request
+(i.e saying hi plz check out my code) for a teammember to review your work. Best practise for merging is that the person who has 
+reviewed and approved will be the one to merge).
+The concepts at first fel difficult to understand. I changed my learning model (writing physical notes with a video), and this felt more 
+intuitive as I watched the 3rd or 4th video.
+
+Going over previous Ko Wai Koe challenge. I keep thinking I have gone wrong and trying to get my head around the concepts.
+In particular around here: Check for and pull down any changes to the main branch, and then checkout your full-name branch again).
+**Did I switch to the main branch? Before entering git pull?(the simplest way is to checkout main, 
+git pull,** and then did I also switch back to my main branch (rebecca-stitt) branch? So that when I entered git push it pushed it 
+from my branch? Did I see the lines appear under that had "git push origin your-name" i.e git push github dev academy rebecca-stitt? 
+**GitHub is typically our origin.**
+
+Create a new pull request (hint: go to the repo on GitHub, choose your branch and click New pull request).
+Did I instead of clicking compare and pull request, did I actually go to far and choose merge pull request?
+In your Discord Homegroup, ask someone to merge your pull request and delete your branch (
+  it's helpful to give them the link to the pull request in your message).
+Checkout main and pull down changes.
+**Did I remember to do this? Go to checkout main branch on terminal and select git pull?
+**Was I also then meant to :Stage i.e Add -A, and then commit? git commit -m"saved new ko wai koe" challenge**
+
+
